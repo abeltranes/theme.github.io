@@ -1,6 +1,6 @@
 # Theme settings
 dox:
-    url: https://github.com/abletranes/theme.github.io
+    url: https://github.com/abeltranes/theme.github.io
     baseurl: /theme.github.io
     title: Project Name
     theme_color: '#0976f8' # Define theme primary color with HEX value
